@@ -1,5 +1,3 @@
-C
-
 ##### Project Title: Custom Search Engine Integration using Google API
 
 #### Project Overview:
