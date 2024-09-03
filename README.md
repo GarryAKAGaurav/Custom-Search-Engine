@@ -61,3 +61,11 @@ The project aims to develop a custom search engine using the Google Custom Searc
    - Monitor performance metrics and user feedback to continuously improve and maintain the search engine.
    - 
 This project description outlines the scope, features, technologies, and implementation steps necessary to create a custom search engine using the Google Custom Search API effectively.
+
+Here are Some Snapshot of the program =>
+
+![Screenshot 2024-09-03 100957](https://github.com/user-attachments/assets/81e35cd0-9338-489d-86ac-59afd3fcde85)
+
+
+
+
